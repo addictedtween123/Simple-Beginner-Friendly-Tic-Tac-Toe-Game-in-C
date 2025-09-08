@@ -39,7 +39,8 @@ int main(){
                 printf("Invalid input");
             }
     }
-            
+
+    //computer = player2        
     char computer;
     while(1){
         if(player == 'x'|| player == 'X'){
